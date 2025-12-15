@@ -1,0 +1,13 @@
+# 自動偵測文字檔案並執行 LF 換行
+* text=auto
+
+# Python 檔案
+*.py text eol=lf
+
+# 文件檔案
+*.md text eol=lf
+LICENSE text eol=lf
+
+# Git 設定
+.gitignore text eol=lf
+.gitattributes text eol=lf
