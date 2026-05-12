@@ -89,3 +89,15 @@ python tk_place.py
 
 
 
+## 與 YTLite / 訂閱制提問的對照說明
+
+這個 repository（`9b117013/tk-layout-quiz4`）是 **Tkinter 佈局練習作業**，不是 YTLite / YTPlus 專案。
+
+- 這裡沒有 `5.2`、`5.2b4`、訂閱方案、付費解鎖功能等版本資訊。
+- 目前可查到的 GitHub **releases/tags 都是空的**（沒有可對照的發版說明）。
+
+如果你前面看到「從 5.2 開始需要訂閱、5.2b4 是最後免費版」那段話，應該是來自**另一個專案**的 release 說明，不是本倉庫內容。
+
+用白話講：
+- 這個專案只是在示範 Tkinter 的 Pack / Grid / Place 三種排版。
+- 介面重點是彩色區塊與視窗縮放（RWD）行為，不涉及任何訂閱或付費機制。
